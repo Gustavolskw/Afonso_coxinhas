@@ -14,3 +14,5 @@ import do script ondde o JQuery opera no projeto:
 js>script.js 
 
 <script src="/js/script.js"></script>
+//importar CSS para todos
+ <link rel="stylesheet" href="/css/main.css">
