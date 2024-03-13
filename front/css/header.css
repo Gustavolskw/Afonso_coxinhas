@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css2?family=Angkor&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Angkor&family=Mochiy+Pop+One&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+.nav_bar_header {
+    padding: 1rem, 5rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.nav-cont {
+    display: flex;
+    align-items: center;
+    gap: 5rem;
+}
+
+.img_header {
+    padding-left: 1rem;
+    width: 11rem;
+}
+
+.titulo_header {
+    color: yellow;
+    font-family: "Mochiy Pop One",
+        sans-serif;
+    font-size: 2.5rem;
+    font-weight: bold;
+    text-shadow: 2px 2px black;
+}
+
+.header_slogan {
+    color: yellow;
+    font-family: "Mochiy Pop One",
+        sans-serif;
+    font-size: 1.5rem;
+    text-align: center;
+    text-shadow: 2px 2px black;
+}
+
+.lista_header {
+    list-style: none;
+    display: flex;
+    gap: 4rem;
+    padding-right: 5rem;
+    align-items: center;
+}
+
+.item_header {
+    text-align: left;
+}
+
+.texto-lista-item {
+    text-decoration: none;
+    color: white;
+    font-size: 1.5rem;
+    font-weight: bold;
+    font-family: "Angkor",
+        serif;
+    text-shadow: 2px 2px black;
+}
+
+
+.texto-lista-item:hover {
+    color: yellow;
+
+}
