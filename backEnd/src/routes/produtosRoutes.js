@@ -5,7 +5,7 @@ import Pagination from "../middlewares/Pagination.js";
 const produtoRoutes = express.Router();
 
 produtoRoutes.get("/produtos/all", ProdutosController.listarTodosProdutos);
-produtoRoutes.post("/compras/add", ProdutosController.adicionarNovoProduto);
+produtoRoutes.post("/produtos/add", ProdutosController.adicionarNovoProduto);
 /*
 autorRoutes.get("/produtos", ProdutosController., Pagination);
 autorRoutes.get("/compras/:id", ProdutosController.);

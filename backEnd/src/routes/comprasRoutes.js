@@ -1,3 +1,4 @@
+/*
 import express from "express";
 import ComprasController from "../controller/ComprasController.js";
 import Pagination from "../middlewares/Pagination.js";
@@ -11,7 +12,8 @@ autorRoutes.delete("/compras/delete/:id", ComprasController.);
 autorRoutes.post("/compras/add", ComprasController.);
 
 
-*/
+
 
 
 export default autorRoutes;
+*/

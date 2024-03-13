@@ -1,4 +1,5 @@
-import Compras from "../model/Compra.js"
+/*
+
 class ComprasController {
 
   static listarTodasCompras = async (req, res, next) => {
@@ -17,4 +18,4 @@ class ComprasController {
 
 }
 
-export default ComprasController;
+export default ComprasController;*/
